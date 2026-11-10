@@ -1,8 +1,12 @@
-## Hi there 👋
+Hi there 👋
+I am an AI Engineer and M.S. Data Science student at Georgetown University (4.00 GPA) bridging systems engineering, deep learning, and scalable infrastructure. My work focuses on building robust multi-agent orchestration pipelines, secure execution sandboxes, and production-ready data systems.
 
-- 🔭 I’m currently working on obtaining my Masters Degree in Data Science and Analytics from Georgetown University with an AI Concentration. 
-- 🌱 I’m currently learning Advanced Data Visualization, Neural Networks & Advanced Deep Learning, and Statistical Learning for Analytics.
-- 👯 I’m looking to collaborate on projects that include parametric modeling, data cleaning and analysis, and any challenges that will allow me to practice what I am learning. I am particularly interested in finding opportunities that allow me to leverage my data analytics and deep learning skill set with educational policy, equity, and reform.
-- 📫 How to reach me: patlanikhil@gmail.com; np767@georgetown.edu;
-- 🗂️ Portfolio: https://nikhilpatla.georgetown.domains
-- 😄 Pronouns: He/Him
+🔭 Currently building: Airlock—a secure, transactional multi-agent coding infrastructure and execution sandbox that coordinates planner, worker, test-writer, and reviewer agents across Docker and microVM backends.
+
+💡 Core Technical Stack: Python (PyTorch, TensorFlow, LangGraph, CrewAI), Docker, AWS (Bedrock, EC2), Vector DBs (Pinecone, ChromaDB), PySpark, DuckDB, and Polars.
+
+🌱 Current Focus: Advancing production-grade agentic workflows, execution isolation, and robust policy-checking guardrails.
+
+📫 How to reach me: patlanikhil@gmail.com | LinkedIn
+
+🗂️ Portfolio: nikhilpatla.georgetown.domains (Custom domain migration in progress)
